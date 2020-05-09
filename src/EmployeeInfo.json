@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "first_name": "Matt",
+    "last_name": "Kelly",
+    "department": "Sales",
+    "phone": "738-729-2693",
+    "email": "m.kelly@company.net"
+  },
+  {
+    "id": 2,
+    "first_name": "Ben",
+    "last_name": "Iwen",
+    "department": "Engineering",
+    "phone": "738-729-2372",
+    "email": "b.iwen@company.net"
+  },
+  {
+    "id": 3,
+    "first_name": "Cindy",
+    "last_name": "Thomas",
+    "department": "Finance",
+    "phone": "738-729-2027",
+    "email": "c.thomas@company.net"
+  },
+  {
+    "id": 4,
+    "first_name": "Kim",
+    "last_name": "Bowles",
+    "department": "Operations",
+    "phone": "738-729-2263",
+    "email": "k.bowles@company.net"
+  },
+  {
+    "id": 5,
+    "first_name": "Pat",
+    "last_name": "Jennings",
+    "department": "Sales",
+    "phone": "390-763-9928",
+    "email": "p.jennings@company.net"
+  },
+  {
+    "id": 6,
+    "first_name": "Keenan",
+    "last_name": "Thwaite",
+    "department": "Engineering",
+    "phone": "390-763-9253",
+    "email": "k.thwaite@company.net"
+  },
+  {
+    "id": 7,
+    "first_name": "Charles",
+    "last_name": "Tate",
+    "department": "Finance",
+    "phone": "390-763-9661",
+    "email": "c.tate@company.net"
+  },
+  {
+    "id": 8,
+    "first_name": "Kate",
+    "last_name": "Lyles",
+    "department": "Operations",
+    "phone": "390-763-9880",
+    "email": "k.lyles@company.net"
+  },
+  {
+    "id": 9,
+    "first_name": "Laura",
+    "last_name": "Nguyen",
+    "department": "Sales",
+    "phone": "782-822-4708",
+    "email": "l.nguyen@company.net"
+  },
+  {
+    "id": 10,
+    "first_name": "Sarah",
+    "last_name": "Johnson",
+    "department": "Engineering",
+    "phone": "782-822-4987",
+    "email": "s.johnson@company.net"
+  },
+  {
+    "id": 11,
+    "first_name": "Tracy",
+    "last_name": "Nelson",
+    "department": "Finance",
+    "phone": "782-822-4446",
+    "email": "t.nelson@company.net"
+  },
+  {
+    "id": 12,
+    "first_name": "Bob",
+    "last_name": "Blake",
+    "department": "Operations",
+    "phone": "782-822-4704",
+    "email": "b.blake@company.net"
+  }
+]
